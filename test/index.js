@@ -1,0 +1,1 @@
+require('./test_lang3.js');
