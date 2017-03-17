@@ -16,7 +16,7 @@
   ```
   - run command from root dir
   ```
-    ./node_modules/.bin/lang.php ./lang/de.js ./src/index.js >> ./lang/de.js     
+    ./node_modules/.bin/lang.php ./lang/de.js ./src/index.js > ./lang/de.js     
   ```
   translate strings in  ./lang/de.js
   ```
